@@ -1,0 +1,46 @@
+/*=====================navbar starts====================================================*/
+.hero-unit-navbar{
+    height:85px;
+    background-color: white;
+}
+.hero-unit-navbar  .col-12 {
+    padding-left:20px;
+    padding-right:20px;
+}
+.hero-unit-navbar .header{
+    font-size:40px;
+}
+
+ .hero-unit-navbar .navbar-collapse .nav-item {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .hero-unit-navbar .navbar-collapse .nav-item :hover{
+   color:black;
+    font-weight: 600;
+  }
+   .hero-unit-navbar .navbar-collapse  .nav-link:hover {
+    color:blue;
+  }
+
+
+   .box-btn{
+    padding:15px 15px;
+    background-color:#ff7643;
+  }  
+
+  
+  
+/*=====================navbar ends======================================================*/
+
+
+.header{
+    display: inline-block;
+    font-family: "NeuzeitOffice-Regular";
+    font-weight: 400;
+    font-style: normal;
+    color: #001325;
+    background: #fff;
+    text-align: center;
+
+}
